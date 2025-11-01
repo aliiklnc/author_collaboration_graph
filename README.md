@@ -1,4 +1,4 @@
-# 🎓 Akademik İş Birliği Grafiği ve Algoritmalar (Veri Yapıları Projesi)
+# 🎓 Akademik İş Birliği Grafı
 
 Bu proje, akademik bir veri seti kullanılarak yazarlar arasındaki iş birliği ilişkilerini modelleyen bir **graf yapısı** oluşturmayı ve bu graf üzerinde çeşitli veri yapısı ile algoritma konseptlerini uygulamayı amaçlamaktadır. Yazarların düğümleri temsil ettiği ve iş birliğinin kenarlarla gösterildiği bir graf yapısı oluşturulmuştur.
 
